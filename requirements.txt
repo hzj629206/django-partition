@@ -1,0 +1,3 @@
+django==1.11.*
+mysqlclient; sys_platform != 'win32'
+https://files.pythonhosted.org/packages/8b/3b/17a0ec31a4963b0c965d193063522bcefc2b26d835db7fa2885a19e73cc2/mysqlclient-1.3.9-cp27-cp27m-win_amd64.whl; sys_platform == 'win32'
